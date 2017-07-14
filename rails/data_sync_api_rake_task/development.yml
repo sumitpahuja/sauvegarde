@@ -1,0 +1,8 @@
+midoffice_apis:
+  user: "http://midoffice.herokuapp.com/api/v1/fetch_users"
+  ota_type: "http://midoffice.herokuapp.com/api/v1/fetch_ota_types"
+  room_type: "http://midoffice.herokuapp.com/api/v1/fetch_room_types"
+  property_alternate_name: "http://midoffice.herokuapp.com/api/v1/fetch_property_alternate_names"
+  property: "http://midoffice.herokuapp.com/api/v1/fetch_properties"
+  property_alternate_name: "http://midoffice.herokuapp.com/api/v1/fetch_property_alternate_names"
+  rategain_ota_mapping: "http://midoffice.herokuapp.com/api/v1/fetch_rategain_ota_mappings"
